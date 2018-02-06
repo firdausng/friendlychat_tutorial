@@ -137,6 +137,7 @@ class ChatScreenState extends State<ChatScreen> with TickerProviderStateMixin {
               : null,
         ),
       );
+      
 }
 
 class ChatMessage extends StatelessWidget {
